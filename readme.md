@@ -9,6 +9,6 @@ If the result of comparison is close to -1 they are perfectly related but in opp
 
 Deeper information about the topic => [Wikipedia Article](https://en.wikipedia.org/wiki/Correlation)
 
-#### PS
+## PS
 
 I took this example from Eloquent JavaScript you can find the chapter related to this topic here: [Data Structures: Objects and Arrays](https://eloquentjavascript.net/04_data.html).

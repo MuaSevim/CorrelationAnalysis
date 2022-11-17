@@ -7,7 +7,7 @@ If the result of comparison is close to 1 they are perfectly related.
 If the result of comparison is close to 0 they are not related at all.
 If the result of comparison is close to -1 they are perfectly related but in opposite ways. (If one is true other one is false)
 
-Deeper information about the topic => [Wikipedia Article](https://en.wikipedia.org/wiki/Correlation)
+More information about the topic => [Wikipedia Article](https://en.wikipedia.org/wiki/Correlation)
 
 ## PS
 
